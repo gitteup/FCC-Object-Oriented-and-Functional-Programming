@@ -1,1 +1,5 @@
 //#1
+
+//NOTES
+
+//Note that it is important to use the new keyword when calling a constructor. This is how Javascript knows to create a new object and that all the references to this inside the constructor should be referring to this new object.
