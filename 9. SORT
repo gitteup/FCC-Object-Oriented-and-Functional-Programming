@@ -1,0 +1,9 @@
+//NOTES: 
+
+//You can use the method sort to easily sort the values in an array alphabetically or numerically.
+
+//Unlike the previous array methods we have been looking at, sort actually alters the array in place.
+//However,it also returns this sorted array.
+
+//#1 
+
