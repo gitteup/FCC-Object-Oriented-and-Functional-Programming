@@ -1,0 +1,6 @@
+//NOTES: 
+
+The filter method is used to iterate through an array and filter out elements where a given condition is not true.
+
+//#1
+
