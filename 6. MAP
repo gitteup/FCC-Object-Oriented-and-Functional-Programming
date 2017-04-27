@@ -1,3 +1,7 @@
+The MAP Method will iterate through every element of the array, 
+creating a new array with values that have been modified by the callback function,
+and return it. Note that it does not modify the original array.
+
 //#1
 
 var oldArray = [1, 2, 3];
