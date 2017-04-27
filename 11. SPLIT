@@ -4,7 +4,7 @@
 
 \\split uses the argument you pass in as a delimiter to determine which points the string should be split at.
 
-//#1
+//#1 (my m)
 
 var string = "Split me Now!";
 var array = [];
@@ -13,7 +13,13 @@ var array = [];
 
 array = string.split('m');
 
-//#2
+//#2 (by spaces)
+
+var array = [];
+
+// Only change code below this line.
+
+array = string.split(' ');
 
 
 
