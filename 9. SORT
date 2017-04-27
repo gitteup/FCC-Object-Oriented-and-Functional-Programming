@@ -5,14 +5,14 @@
 //Unlike the previous array methods we have been looking at, sort actually alters the array in place.
 //However,it also returns this sorted array.
 
-//#1 
+//#1 (smallest to largest)
 
 var array = [1, 12, 21, 2];
 array.sort(function(a, b) {
   return a - b;
 });
 
-//#2 
+//#2 (largest to smallest)
 
 var array = [1, 12, 21, 2];
 
