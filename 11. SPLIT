@@ -6,3 +6,14 @@
 
 //#1
 
+var string = "Split me Now!";
+var array = [];
+
+// Only change code below this line.
+
+array = string.split('m');
+
+//#2
+
+
+
